@@ -1,1 +1,2 @@
 # TableViewExpandableCell
+![](sample.gif)
